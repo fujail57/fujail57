@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Fujail Akram]  
+# Hi there! 👋 I'm Fujail Akram
 
 🚀 **MERN Stack Developer | JavaScript Enthusiast**  
 
